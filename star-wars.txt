@@ -1,0 +1,16 @@
+Movie Title: Star Wars
+
+Year made: 1977
+
+Actors: Mark Hamill, Carrie Fischer, James Earl Jones, David Prowse, Sebastian Straw, 
+Alec Guinness, Felicity Jones, Harrison Ford,  Frank Oz, Samuel L. Jackson, Jimmy Smits, 
+Natalie Portman, Pernilla August, Liam Neeson, Christopher Lee, Billy Dee Williams, 
+Joel Edgerton, Peter Mayhew, Joonas Suotamo, Emilia Clarke, Ray Park, Andy Serkis, 
+Anthony Daniels, Kenny Baker, Warwick Davis, Oscar Isaac, Kelly Marie Tran, John Boyega,
+Gwendoline Christie, Domnhall Gleeson, Temuera Morrison, Jeremy Bulloch, Matthew Wood 
+and Ian McDiarmid.
+
+Movie Premise: Taking all six films as a single story, Star Wars tells the story of the 
+rise and fall of one of the most powerful Jedis in history, Anakin Skywalker. Anakin's 
+talent is disovered, he rises in the ranks of the Jedi, is misled by his own fears, 
+corrupted by power, and redeemed by the love of his son.
